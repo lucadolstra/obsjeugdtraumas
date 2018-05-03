@@ -18,5 +18,4 @@ public class Grade  {
     @JoinColumn(name="studentId")
     private Student student;
 
-
 }
